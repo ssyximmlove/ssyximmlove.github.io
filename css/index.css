@@ -2326,7 +2326,7 @@ blockquote footer cite:before {
 #nav #site_title,
 #nav #site_subtitle,
 #nav #scroll_down .scroll-down-effects {
-  color: #eee;
+  color: #00c4b6;
   text-align: center;
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   line-height: 1.5;
@@ -2389,7 +2389,7 @@ blockquote footer cite:before {
   bottom: 1.5rem;
   padding: 0 8%;
   width: 100%;
-  color: #eee;
+  color: #00c4b6;
   text-align: left;
 }
 #nav.post-bg #post-info #post-title {
@@ -2466,7 +2466,7 @@ blockquote footer cite:before {
   font-size: inherit;
 }
 #page-header a {
-  color: #eee;
+  color: #75d1ff;
 }
 #page-header a:hover {
   color: #fff;
